@@ -5,6 +5,8 @@ shift asal: F<br>
 
 Video demo aplikasi:
 https://github.com/user-attachments/assets/da616271-1543-45ac-8931-57c1271d5f08
+<br><img src="assets/Responsi2_Paket3.gif" width="200" />
+
 
 ### API Spesification & Penjelasan Kode
 
